@@ -1,1 +1,1 @@
-print("git deneme")
+print("git")
